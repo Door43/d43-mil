@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mil:home|Door43 (mil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mil|d43-mil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mil/archive/master.zip|d43-mil.zip]]
+
+**Recent Changes**
+{{changes>ns = mil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mil|Ethnologue data]]
+
